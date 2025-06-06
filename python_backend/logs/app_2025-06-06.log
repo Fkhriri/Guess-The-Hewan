@@ -1,0 +1,548 @@
+2025-06-06 17:36:48 | INFO     | __main__:<module>:148 | Starting Animal Guessing Game API server...
+2025-06-06 17:36:53 | ERROR    | __main__:general_exception_handler:85 | Unexpected error: module 'datetime' has no attribute 'now'
+2025-06-06 17:39:43 | INFO     | __main__:<module>:148 | Starting Animal Guessing Game API server...
+2025-06-06 17:39:46 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:39:46 | INFO     | __main__:dispatch:27 | Request completed: 404 (0.00s)
+2025-06-06 17:41:37 | INFO     | __main__:<module>:153 | Starting Animal Guessing Game API server...
+2025-06-06 17:41:40 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:41:40 | INFO     | __main__:dispatch:27 | Request completed: 404 (0.01s)
+2025-06-06 17:41:41 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:41:41 | INFO     | __main__:dispatch:27 | Request completed: 404 (0.01s)
+2025-06-06 17:44:25 | INFO     | __main__:<module>:153 | Starting Animal Guessing Game API server...
+2025-06-06 17:44:31 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:44:31 | INFO     | __main__:dispatch:27 | Request completed: 404 (0.01s)
+2025-06-06 17:47:23 | INFO     | __main__:<module>:157 | Starting Animal Guessing Game API server...
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.18s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/style.css
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/Guess-game.app.js
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/bgm.mp3
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/correct.mp3
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/wrong.mp3
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.07s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.01s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.01s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/press.mp3
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/end.mp3
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.01s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.01s)
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/favicon/favicon.png
+2025-06-06 17:47:28 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/images/can we get much higher.jpg
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/images/ksabar.jpg
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/images/jikaaa.jpg
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/bgm.mp3
+2025-06-06 17:47:38 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.01s)
+2025-06-06 17:47:49 | INFO     | __main__:dispatch:22 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 17:47:49 | INFO     | __main__:process_speech:120 | Processing audio file: recording.wav
+2025-06-06 17:47:49 | ERROR    | audio_processor:validate_and_normalize:49 | Error processing audio file: file does not start with RIFF id
+2025-06-06 17:47:49 | INFO     | __main__:dispatch:27 | Request completed: 422 (0.06s)
+2025-06-06 17:47:54 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:47:54 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.00s)
+2025-06-06 17:54:18 | INFO     | __main__:<module>:157 | Starting Animal Guessing Game API server...
+2025-06-06 17:54:20 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:54:20 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.16s)
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/style.css
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/audio-converter.js
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/Guess-game.app.js
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:27 | Request completed: 304 (0.07s)
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.07s)
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.06s)
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/sounds/end.mp3
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:27 | Request completed: 206 (0.01s)
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/favicon/favicon.png
+2025-06-06 17:54:21 | INFO     | __main__:dispatch:27 | Request completed: 304 (0.00s)
+2025-06-06 17:54:56 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/images/icikiwir.jpg
+2025-06-06 17:54:56 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/images/sucipto.jpg
+2025-06-06 17:54:56 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/images/uhahaha.jpg
+2025-06-06 17:54:56 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:54:56 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:54:56 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.01s)
+2025-06-06 17:55:03 | INFO     | __main__:dispatch:22 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 17:55:03 | INFO     | __main__:process_speech:120 | Processing audio file: recording_2025-06-06T09-55-03-909Z.wav
+2025-06-06 17:55:03 | DEBUG    | audio_processor:validate_and_normalize:38 | Audio metrics - Duration: 14.76s, Max amplitude: 21481, Average energy: 559.1486026422764
+2025-06-06 17:55:03 | DEBUG    | audio_processor:is_silence:65 | Audio RMS: 23.646323237287366, Threshold: 500
+2025-06-06 17:55:03 | INFO     | __main__:dispatch:27 | Request completed: 422 (0.04s)
+2025-06-06 17:55:09 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/
+2025-06-06 17:55:09 | INFO     | __main__:dispatch:27 | Request completed: 200 (0.00s)
+2025-06-06 17:55:09 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/audio-converter.js
+2025-06-06 17:55:09 | INFO     | __main__:dispatch:27 | Request completed: 304 (0.01s)
+2025-06-06 17:55:09 | INFO     | __main__:dispatch:22 | Request started: GET http://localhost:8000/static/Guess-game.app.js
+2025-06-06 17:55:09 | INFO     | __main__:dispatch:27 | Request completed: 304 (0.01s)
+2025-06-06 18:18:20 | INFO     | __main__:<module>:163 | Starting Animal Guessing Game API server
+2025-06-06 18:18:24 | INFO     | __main__:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:18:24 | INFO     | __main__:dispatch:29 | Request completed: 404 (0.01s)
+2025-06-06 18:20:40 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:20:41 | INFO     | main:dispatch:29 | Request completed: 200 (0.17s)
+2025-06-06 18:20:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/style.css
+2025-06-06 18:20:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/audio-converter.js
+2025-06-06 18:20:41 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:20:41 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:20:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/Guess-game.app.js
+2025-06-06 18:20:41 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:20:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/sounds/end.mp3
+2025-06-06 18:20:41 | INFO     | main:dispatch:29 | Request completed: 206 (0.00s)
+2025-06-06 18:20:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/favicon/favicon.png
+2025-06-06 18:20:41 | INFO     | main:dispatch:29 | Request completed: 304 (0.00s)
+2025-06-06 18:25:17 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:25:17 | INFO     | main:dispatch:29 | Request completed: 200 (0.16s)
+2025-06-06 18:25:17 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/style.css
+2025-06-06 18:25:17 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:25:17 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/audio-converter.js
+2025-06-06 18:25:17 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/Guess-game.app.js
+2025-06-06 18:25:17 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 18:25:17 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 18:25:20 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/images/masbro.jpg
+2025-06-06 18:25:20 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/images/cukurukuk.jpg
+2025-06-06 18:25:20 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/images/let me know.jpg
+2025-06-06 18:25:20 | INFO     | main:dispatch:29 | Request completed: 200 (0.02s)
+2025-06-06 18:25:20 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 18:25:20 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 18:25:30 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:25:30 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:25:33 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/images/kecwa ringan.jpg
+2025-06-06 18:25:33 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:25:41 | INFO     | main:dispatch:24 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 18:25:41 | WARNING  | main:validation_exception_handler:173 | Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None}]
+2025-06-06 18:25:41 | INFO     | main:dispatch:29 | Request completed: 400 (0.01s)
+2025-06-06 18:25:46 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:25:46 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:25:54 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:25:54 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:25:54 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:25:54 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:26:05 | INFO     | main:dispatch:24 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 18:26:05 | WARNING  | main:validation_exception_handler:173 | Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None}]
+2025-06-06 18:26:05 | INFO     | main:dispatch:29 | Request completed: 400 (0.00s)
+2025-06-06 18:26:32 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:26:32 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:26:32 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:26:32 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:26:32 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/favicon/favicon.png
+2025-06-06 18:26:32 | INFO     | main:dispatch:29 | Request completed: 304 (0.00s)
+2025-06-06 18:26:43 | INFO     | main:dispatch:24 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 18:26:43 | WARNING  | main:validation_exception_handler:173 | Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None}]
+2025-06-06 18:26:43 | INFO     | main:dispatch:29 | Request completed: 400 (0.02s)
+2025-06-06 18:27:40 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:27:40 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:27:40 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/static/style.css
+2025-06-06 18:27:40 | INFO     | main:dispatch:29 | Request completed: 304 (0.00s)
+2025-06-06 18:27:40 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:27:40 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:32:34 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:32:34 | INFO     | main:dispatch:29 | Request completed: 200 (0.14s)
+2025-06-06 18:32:34 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/style.css
+2025-06-06 18:32:34 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:32:34 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/audio-converter.js
+2025-06-06 18:32:34 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:32:34 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/Guess-game.app.js
+2025-06-06 18:32:34 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:32:34 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:32:34 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:46:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:46:41 | INFO     | main:dispatch:29 | Request completed: 404 (0.01s)
+2025-06-06 18:46:41 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:46:41 | INFO     | main:dispatch:29 | Request completed: 404 (0.00s)
+2025-06-06 18:51:17 | INFO     | main:<module>:121 | Successfully mounted static directory: sounds -> ../sounds
+2025-06-06 18:51:17 | INFO     | main:<module>:121 | Successfully mounted static directory: images -> ../images
+2025-06-06 18:51:17 | INFO     | main:<module>:121 | Successfully mounted static directory: favicon -> ../favicon
+2025-06-06 18:51:17 | INFO     | main:<module>:121 | Successfully mounted static directory: static -> ../static
+2025-06-06 18:51:51 | INFO     | main:<module>:121 | Successfully mounted static directory: sounds -> ../sounds
+2025-06-06 18:51:51 | INFO     | main:<module>:121 | Successfully mounted static directory: images -> ../images
+2025-06-06 18:51:51 | INFO     | main:<module>:121 | Successfully mounted static directory: favicon -> ../favicon
+2025-06-06 18:51:51 | INFO     | main:<module>:121 | Successfully mounted static directory: static -> ../static
+2025-06-06 18:53:09 | INFO     | main:<module>:121 | Successfully mounted static directory: sounds -> ../sounds
+2025-06-06 18:53:09 | INFO     | main:<module>:121 | Successfully mounted static directory: images -> ../images
+2025-06-06 18:53:09 | INFO     | main:<module>:121 | Successfully mounted static directory: favicon -> ../favicon
+2025-06-06 18:53:09 | INFO     | main:<module>:121 | Successfully mounted static directory: static -> ../static
+2025-06-06 18:53:21 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/
+2025-06-06 18:53:21 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:53:21 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/style.css
+2025-06-06 18:53:21 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/audio-converter.js
+2025-06-06 18:53:21 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 18:53:21 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 18:53:21 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/Guess-game.app.js
+2025-06-06 18:53:21 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:53:21 | WARNING  | main:not_found_handler:179 | 404 Not Found: http://localhost:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 18:53:21 | INFO     | main:dispatch:29 | Request completed: 200 (0.17s)
+2025-06-06 18:53:21 | INFO     | main:dispatch:29 | Request completed: 200 (0.17s)
+2025-06-06 18:53:21 | INFO     | main:dispatch:24 | Request started: GET http://localhost:8000/favicon/favicon.png
+2025-06-06 18:53:21 | INFO     | main:dispatch:29 | Request completed: 304 (0.00s)
+2025-06-06 18:53:47 | INFO     | main:dispatch:24 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 18:53:47 | ERROR    | main:process_speech:220 | Unexpected error during speech processing
+Traceback (most recent call last):
+
+  File "C:\ding ngoding tugas infor\recoba\python_backend\audio_processor.py", line 66, in validate_and_normalize
+    raise AudioTooLong()
+
+NameError: name 'AudioTooLong' is not defined
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "<string>", line 1, in <module>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               │     │   └ 212
+               │     └ 3
+               └ <function _main at 0x0000025786CD7420>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\spawn.py", line 135, in _main
+    return self._bootstrap(parent_sentinel)
+           │    │          └ 212
+           │    └ <function BaseProcess._bootstrap at 0x0000025786BC8C20>
+           └ <SpawnProcess name='SpawnProcess-7' parent=11364 started>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+    │    └ <function BaseProcess.run at 0x0000025786BC8180>
+    └ <SpawnProcess name='SpawnProcess-7' parent=11364 started>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {'config': <uvicorn.config.Config object at 0x0000025786C923F0>, 'target': <bound method Server.run of <uvicorn.server.Server...
+    │    │        │    │        └ <SpawnProcess name='SpawnProcess-7' parent=11364 started>
+    │    │        │    └ ()
+    │    │        └ <SpawnProcess name='SpawnProcess-7' parent=11364 started>
+    │    └ <function subprocess_started at 0x0000025789762C00>
+    └ <SpawnProcess name='SpawnProcess-7' parent=11364 started>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\uvicorn\_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+    │              └ [<socket.socket fd=736, family=2, type=1, proto=6, laddr=('127.0.0.1', 8000)>]
+    └ <bound method Server.run of <uvicorn.server.Server object at 0x000002578979CB60>>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\uvicorn\server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           │       │   │    │             └ [<socket.socket fd=736, family=2, type=1, proto=6, laddr=('127.0.0.1', 8000)>]
+           │       │   │    └ <function Server.serve at 0x0000025789762340>
+           │       │   └ <uvicorn.server.Server object at 0x000002578979CB60>
+           │       └ <function run at 0x0000025786CDC2C0>
+           └ <module 'asyncio' from 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\...
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           │      │   └ <coroutine object Server.serve at 0x0000025789789460>
+           │      └ <function Runner.run at 0x0000025789473560>
+           └ <asyncio.runners.Runner object at 0x0000025786C92630>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           │    │     │                  └ <Task pending name='Task-1' coro=<Server.serve() running at C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Pyt...
+           │    │     └ <function BaseEventLoop.run_until_complete at 0x0000025789471120>
+           │    └ <_WindowsSelectorEventLoop running=True closed=False debug=False>
+           └ <asyncio.runners.Runner object at 0x0000025786C92630>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 678, in run_until_complete
+    self.run_forever()
+    │    └ <function BaseEventLoop.run_forever at 0x0000025789471080>
+    └ <_WindowsSelectorEventLoop running=True closed=False debug=False>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 645, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x0000025789472E80>
+    └ <_WindowsSelectorEventLoop running=True closed=False debug=False>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1999, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x0000025786EE8EA0>
+    └ <Handle Task.task_wakeup(<Future cancelled>)>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle Task.task_wakeup(<Future cancelled>)>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle Task.task_wakeup(<Future cancelled>)>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle Task.task_wakeup(<Future cancelled>)>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+          │    │   │      │                      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.send_no_error at 0x00000257A15084A0>
+          │    │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │    │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │    └ <starlette.middleware.exceptions.ExceptionMiddleware object at 0x000002578B0E0200>
+          └ <main.LoggingMiddleware object at 0x000002578B0E2360>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+          │                            │    │    │     │      │        └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.send_no_error at 0x00000257A15084A0>
+          │                            │    │    │     │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │                            │    │    │     └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │                            │    │    └ <starlette.requests.Request object at 0x00000257A150E720>
+          │                            │    └ <fastapi.routing.APIRouter object at 0x000002578B17DD90>
+          │                            └ <starlette.middleware.exceptions.ExceptionMiddleware object at 0x000002578B0E0200>
+          └ <function wrap_app_handling_exceptions at 0x0000025789EF7100>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+          │   │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x00000257A1508720>
+          │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          └ <fastapi.routing.APIRouter object at 0x000002578B17DD90>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+          │    │                │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x00000257A1508720>
+          │    │                │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │    │                └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │    └ <bound method Router.app of <fastapi.routing.APIRouter object at 0x000002578B17DD90>>
+          └ <fastapi.routing.APIRouter object at 0x000002578B17DD90>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+          │     │      │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x00000257A1508720>
+          │     │      │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │     │      └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │     └ <function Route.handle at 0x0000025789F285E0>
+          └ APIRoute(path='/api/speech', name='process_speech', methods=['POST'])
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+          │    │   │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x00000257A1508720>
+          │    │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │    │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │    └ <function request_response.<locals>.app at 0x00000257A14B0720>
+          └ APIRoute(path='/api/speech', name='process_speech', methods=['POST'])
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+          │                            │    │        │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x00000257A1508720>
+          │                            │    │        │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │                            │    │        └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │                            │    └ <starlette.requests.Request object at 0x00000257A152D1C0>
+          │                            └ <function request_response.<locals>.app.<locals>.app at 0x00000257A15080E0>
+          └ <function wrap_app_handling_exceptions at 0x0000025789EF7100>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+          │   │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x00000257A15094E0>
+          │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x00000257A15093A0>
+          │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          └ <function request_response.<locals>.app.<locals>.app at 0x00000257A15080E0>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+                     │ └ <starlette.requests.Request object at 0x00000257A152D1C0>
+                     └ <function get_request_handler.<locals>.app at 0x00000257A14B05E0>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                         └ <function run_endpoint_function at 0x0000025789EF6A20>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+                 │         │      └ {'file': UploadFile(filename='recording_2025-06-06T10-53-47-739Z.wav', size=478124, headers=Headers({'content-disposition': '...
+                 │         └ <function process_speech at 0x00000257A14B04A0>
+                 └ Dependant(path_params=[], query_params=[], header_params=[], cookie_params=[], body_params=[ModelField(field_info=File(Pydant...
+
+> File "C:\ding ngoding tugas infor\recoba\python_backend\main.py", line 200, in process_speech
+    audio_info = audio_processor.validate_and_normalize(temp_path)
+                 │               │                      └ 'temp/1749207227_recording_2025-06-06T10-53-47-739Z.wav'
+                 │               └ <function AudioProcessor.validate_and_normalize at 0x00000257A14B0220>
+                 └ <audio_processor.AudioProcessor object at 0x00000257A1493080>
+
+  File "C:\ding ngoding tugas infor\recoba\python_backend\audio_processor.py", line 93, in validate_and_normalize
+    except (AudioProcessingError, AudioTooLong) as e:
+            └ <class 'errors.AudioProcessingError'>
+
+NameError: name 'AudioTooLong' is not defined
+2025-06-06 18:53:47 | DEBUG    | main:process_speech:230 | Cleaned up temporary file: temp/1749207227_recording_2025-06-06T10-53-47-739Z.wav
+2025-06-06 18:53:47 | INFO     | main:dispatch:29 | Request completed: 500 (0.10s)
+2025-06-06 19:32:36 | INFO     | main:<module>:121 | Successfully mounted static directory: sounds -> ../sounds
+2025-06-06 19:32:36 | INFO     | main:<module>:121 | Successfully mounted static directory: images -> ../images
+2025-06-06 19:32:36 | INFO     | main:<module>:121 | Successfully mounted static directory: favicon -> ../favicon
+2025-06-06 19:32:36 | INFO     | main:<module>:121 | Successfully mounted static directory: static -> ../static
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/style.css
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/audio-converter.js
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/Guess-game.app.js
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/bgm.mp3
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/wrong.mp3
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/correct.mp3
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/press.mp3
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/end.mp3
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 206 (0.25s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 206 (0.25s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 206 (0.25s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 206 (0.24s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 206 (0.25s)
+2025-06-06 19:33:03 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/favicon/favicon.png
+2025-06-06 19:33:03 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:06 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 19:33:06 | WARNING  | main:not_found_handler:179 | 404 Not Found: http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json
+2025-06-06 19:33:06 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:14 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/
+2025-06-06 19:33:14 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 19:33:20 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/images/cukurukuk.jpg
+2025-06-06 19:33:20 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/images/kecwa ringan.jpg
+2025-06-06 19:33:20 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/images/ksabar.jpg
+2025-06-06 19:33:20 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:20 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:33:20 | INFO     | main:dispatch:29 | Request completed: 200 (0.02s)
+2025-06-06 19:33:20 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/bgm.mp3
+2025-06-06 19:33:20 | INFO     | main:dispatch:29 | Request completed: 206 (0.00s)
+2025-06-06 19:33:30 | INFO     | main:dispatch:24 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 19:33:30 | WARNING  | audio_processor:validate_and_normalize:100 | Audio too long: 413: Durasi rekaman terlalu panjang. Maksimal 5 detik.
+2025-06-06 19:33:30 | ERROR    | main:process_speech:220 | Unexpected error during speech processing
+Traceback (most recent call last):
+
+  File "<string>", line 1, in <module>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               │     │   └ 176
+               │     └ 3
+               └ <function _main at 0x000002B812CF7420>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\spawn.py", line 135, in _main
+    return self._bootstrap(parent_sentinel)
+           │    │          └ 176
+           │    └ <function BaseProcess._bootstrap at 0x000002B812BE8C20>
+           └ <SpawnProcess name='SpawnProcess-1' parent=11416 started>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+    │    └ <function BaseProcess.run at 0x000002B812BE8180>
+    └ <SpawnProcess name='SpawnProcess-1' parent=11416 started>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {'config': <uvicorn.config.Config object at 0x000002B812CB23F0>, 'target': <bound method Server.run of <uvicorn.server.Server...
+    │    │        │    │        └ <SpawnProcess name='SpawnProcess-1' parent=11416 started>
+    │    │        │    └ ()
+    │    │        └ <SpawnProcess name='SpawnProcess-1' parent=11416 started>
+    │    └ <function subprocess_started at 0x000002B815762C00>
+    └ <SpawnProcess name='SpawnProcess-1' parent=11416 started>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\uvicorn\_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+    │              └ [<socket.socket fd=772, family=2, type=1, proto=6, laddr=('127.0.0.1', 8000)>]
+    └ <bound method Server.run of <uvicorn.server.Server object at 0x000002B81579CB60>>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\uvicorn\server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           │       │   │    │             └ [<socket.socket fd=772, family=2, type=1, proto=6, laddr=('127.0.0.1', 8000)>]
+           │       │   │    └ <function Server.serve at 0x000002B815762340>
+           │       │   └ <uvicorn.server.Server object at 0x000002B81579CB60>
+           │       └ <function run at 0x000002B812CFC2C0>
+           └ <module 'asyncio' from 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\...
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           │      │   └ <coroutine object Server.serve at 0x000002B815789460>
+           │      └ <function Runner.run at 0x000002B815473560>
+           └ <asyncio.runners.Runner object at 0x000002B812CB2630>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           │    │     │                  └ <Task pending name='Task-1' coro=<Server.serve() running at C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Pyt...
+           │    │     └ <function BaseEventLoop.run_until_complete at 0x000002B815471120>
+           │    └ <_WindowsSelectorEventLoop running=True closed=False debug=False>
+           └ <asyncio.runners.Runner object at 0x000002B812CB2630>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 678, in run_until_complete
+    self.run_forever()
+    │    └ <function BaseEventLoop.run_forever at 0x000002B815471080>
+    └ <_WindowsSelectorEventLoop running=True closed=False debug=False>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 645, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000002B815472E80>
+    └ <_WindowsSelectorEventLoop running=True closed=False debug=False>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1999, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000002B812F08EA0>
+    └ <Handle Task.task_wakeup(<Future cancelled>)>
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle Task.task_wakeup(<Future cancelled>)>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle Task.task_wakeup(<Future cancelled>)>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle Task.task_wakeup(<Future cancelled>)>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+          │    │   │      │                      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.send_no_error at 0x000002B82D50C9A0>
+          │    │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │    │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │    └ <starlette.middleware.exceptions.ExceptionMiddleware object at 0x000002B82D4933B0>
+          └ <main.LoggingMiddleware object at 0x000002B82D493FB0>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+          │                            │    │    │     │      │        └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.send_no_error at 0x000002B82D50C9A0>
+          │                            │    │    │     │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │                            │    │    │     └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │                            │    │    └ <starlette.requests.Request object at 0x000002B82D526630>
+          │                            │    └ <fastapi.routing.APIRouter object at 0x000002B81719C170>
+          │                            └ <starlette.middleware.exceptions.ExceptionMiddleware object at 0x000002B82D4933B0>
+          └ <function wrap_app_handling_exceptions at 0x000002B815F17100>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+          │   │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x000002B82D50D620>
+          │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          └ <fastapi.routing.APIRouter object at 0x000002B81719C170>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+          │    │                │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x000002B82D50D620>
+          │    │                │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │    │                └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │    └ <bound method Router.app of <fastapi.routing.APIRouter object at 0x000002B81719C170>>
+          └ <fastapi.routing.APIRouter object at 0x000002B81719C170>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+          │     │      │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x000002B82D50D620>
+          │     │      │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │     │      └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │     └ <function Route.handle at 0x000002B815F445E0>
+          └ APIRoute(path='/api/speech', name='process_speech', methods=['POST'])
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+          │    │   │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x000002B82D50D620>
+          │    │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │    │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │    └ <function request_response.<locals>.app at 0x000002B82D4B1D00>
+          └ APIRoute(path='/api/speech', name='process_speech', methods=['POST'])
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+          │                            │    │        │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x000002B82D50D620>
+          │                            │    │        │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │                            │    │        └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          │                            │    └ <starlette.requests.Request object at 0x000002B82D5274A0>
+          │                            └ <function request_response.<locals>.app.<locals>.app at 0x000002B82D50EB60>
+          └ <function wrap_app_handling_exceptions at 0x000002B815F17100>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+          │   │      │        └ <function wrap_app_handling_exceptions.<locals>.wrapped_app.<locals>.sender at 0x000002B82D50FF60>
+          │   │      └ <function BaseHTTPMiddleware.__call__.<locals>.call_next.<locals>.receive_or_disconnect at 0x000002B82D50FBA0>
+          │   └ {'type': 'http', 'asgi': {'version': '3.0', 'spec_version': '2.3'}, 'http_version': '1.1', 'server': ('127.0.0.1', 8000), 'cl...
+          └ <function request_response.<locals>.app.<locals>.app at 0x000002B82D50EB60>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+                     │ └ <starlette.requests.Request object at 0x000002B82D5274A0>
+                     └ <function get_request_handler.<locals>.app at 0x000002B82D4B1E40>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                         └ <function run_endpoint_function at 0x000002B815F16A20>
+  File "C:\Users\Hype\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+                 │         │      └ {'file': UploadFile(filename='recording_2025-06-06T11-33-30-105Z.wav', size=472364, headers=Headers({'content-disposition': '...
+                 │         └ <function process_speech at 0x000002B82D4B1EE0>
+                 └ Dependant(path_params=[], query_params=[], header_params=[], cookie_params=[], body_params=[ModelField(field_info=File(Pydant...
+
+> File "C:\ding ngoding tugas infor\recoba\python_backend\main.py", line 200, in process_speech
+    audio_info = audio_processor.validate_and_normalize(temp_path)
+                 │               │                      └ 'temp/1749209610_recording_2025-06-06T11-33-30-105Z.wav'
+                 │               └ <function AudioProcessor.validate_and_normalize at 0x000002B82D4B0540>
+                 └ <audio_processor.AudioProcessor object at 0x000002B82D493A70>
+
+  File "C:\ding ngoding tugas infor\recoba\python_backend\audio_processor.py", line 101, in validate_and_normalize
+    raise e
+
+  File "C:\ding ngoding tugas infor\recoba\python_backend\audio_processor.py", line 67, in validate_and_normalize
+    raise AudioTooLong()
+          └ <class 'errors.AudioTooLong'>
+
+errors.AudioTooLong: 413: Durasi rekaman terlalu panjang. Maksimal 5 detik.
+2025-06-06 19:33:30 | DEBUG    | main:process_speech:230 | Cleaned up temporary file: temp/1749209610_recording_2025-06-06T11-33-30-105Z.wav
+2025-06-06 19:33:30 | INFO     | main:dispatch:29 | Request completed: 500 (0.07s)
+2025-06-06 19:35:27 | INFO     | main:<module>:121 | Successfully mounted static directory: sounds -> ../sounds
+2025-06-06 19:35:27 | INFO     | main:<module>:121 | Successfully mounted static directory: images -> ../images
+2025-06-06 19:35:27 | INFO     | main:<module>:121 | Successfully mounted static directory: favicon -> ../favicon
+2025-06-06 19:35:27 | INFO     | main:<module>:121 | Successfully mounted static directory: static -> ../static
+2025-06-06 19:35:27 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/sounds/end.mp3
+2025-06-06 19:35:27 | INFO     | main:dispatch:29 | Request completed: 206 (0.16s)
+2025-06-06 19:35:30 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/
+2025-06-06 19:35:30 | INFO     | main:dispatch:29 | Request completed: 200 (0.00s)
+2025-06-06 19:35:34 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/images/sucipto.jpg
+2025-06-06 19:35:34 | INFO     | main:dispatch:24 | Request started: GET http://127.0.0.1:8000/images/masbro.jpg
+2025-06-06 19:35:34 | INFO     | main:dispatch:29 | Request completed: 200 (0.01s)
+2025-06-06 19:35:34 | INFO     | main:dispatch:29 | Request completed: 200 (0.02s)
+2025-06-06 19:35:42 | INFO     | main:dispatch:24 | Request started: POST http://localhost:8000/api/speech
+2025-06-06 19:35:42 | WARNING  | audio_processor:validate_and_normalize:100 | Audio too long: 413: Durasi rekaman terlalu panjang. Maksimal 5 detik.
+2025-06-06 19:35:42 | ERROR    | main:process_speech:216 | Game error occurred: AUDIO_TOO_LONG - Durasi rekaman terlalu panjang. Maksimal 5 detik.
+2025-06-06 19:35:42 | DEBUG    | main:process_speech:238 | Cleaned up temporary file: temp/1749209742_recording_2025-06-06T11-35-42-148Z.wav
+2025-06-06 19:35:42 | INFO     | main:dispatch:29 | Request completed: 413 (0.03s)
